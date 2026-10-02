@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "Directory listing for: $(pwd)"
+ls -l
+
+.
+├── advanced-log.txt
+├── easy-log.txt
+├── files.txt
+├── intermediate-log.txt
+├── secret.txt
+└── test.txt
+
+1 directory, 6 files
