@@ -1,0 +1,5 @@
+]633;E;echo "=== Easy Level ===";ceadb4fd-a28b-4bc5-9b24-d7103eae0cda]633;C=== Easy Level ===
+/workspaces/linux-c-lab2/command-line/command-line-easy
+easy-log.txt
+test.txt
+Hello, Linux!
